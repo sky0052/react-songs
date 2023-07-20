@@ -23,11 +23,6 @@ const SongCard = ({ song, apidata }) => {
   // console.log(song);
   // }
 
-  // useEffect(() => {
-  //   if(song){
-  //     setImgapi()
-  //   }
-  // },img)
 
 
   return(
